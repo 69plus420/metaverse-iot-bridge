@@ -1,0 +1,23 @@
+{
+  "name": "metaverse-iot-bridge",
+  "version": "1.0.1",
+  "description": "Bridges IoT devices with metaverse platforms for interactive and immersive experiences.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/69plus420/metaverse-iot-bridge"
+  },
+  "author": "69plus420",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^4.2.6",
+    "socket.io": "^4.0.0",
+    "axios": "^0.21.1",
+    "web3": "^1.3.5",
+    "aframe": "^1.2.0",
+    "three": "^0.127.0"
+  }
+}
